@@ -2,30 +2,30 @@
   "group": [
     {
 	  "name": "HTV",
-      "channels": [
+      "channel": [
 		{
-			thumnail: "",
+			"thumnail": "",
 			"name": "HTV7",
 			"url": "http://stream14.tv.zdn.vn/streaming/f26de8acd1e87ff0d78ea17e6cd62fef/5753b81c/2016/0530/61/615e269fbccbe65db00d68b613ea2158.mp4?format\u003df360\u0026device\u003dsmarttv"
 		},
 		{
-			thumnail: "",
-			"channel_name": "HTV9",
+			"thumnail": "",
+			"name": "HTV9",
 			"url": "http://stream14.tv.zdn.vn/streaming/f26de8acd1e87ff0d78ea17e6cd62fef/5753b81c/2016/0530/61/615e269fbccbe65db00d68b613ea2158.mp4?format\u003df360\u0026device\u003dsmarttv"
 		}
 	  ]
     },
    {
 	  "name": "VTV",
-      "channels": [
+      "channel": [
 		{
-			thumnail: "",
-			"channel_name": "VTV3",
+			"thumnail": "",
+			"name": "VTV3",
 			"url": "http://stream14.tv.zdn.vn/streaming/f26de8acd1e87ff0d78ea17e6cd62fef/5753b81c/2016/0530/61/615e269fbccbe65db00d68b613ea2158.mp4?format\u003df360\u0026device\u003dsmarttv"
 		},
 		{
-			thumnail: "",
-			"channel_name": "VTV6",
+			"thumnail": "",
+			"name": "VTV6",
 			"url": "http://stream14.tv.zdn.vn/streaming/f26de8acd1e87ff0d78ea17e6cd62fef/5753b81c/2016/0530/61/615e269fbccbe65db00d68b613ea2158.mp4?format\u003df360\u0026device\u003dsmarttv"
 		}
 	  ]
